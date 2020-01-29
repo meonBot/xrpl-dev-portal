@@ -1,0 +1,13 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "content/_code-samples/address_encoding/package.json",
+        "content/_code-samples/checks/js/package.json",
+        "content/_code-samples/escrow/package.json",
+        "content/_code-samples/freeze/package.json",
+        "content/_code-samples/rippleapi_quickstart/package.json"
+      ]
+    }
+  }
+}
