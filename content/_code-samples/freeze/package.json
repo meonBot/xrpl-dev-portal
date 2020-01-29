@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "license": "MIT",
   "dependencies": {
-    "ripple-lib": "*",
+    "ripple-lib": "^1.6.2",
     "babel-cli": "^6.0.0",
     "babel-preset-es2015": "*"
   },
